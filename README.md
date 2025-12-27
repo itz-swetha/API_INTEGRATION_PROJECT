@@ -22,4 +22,4 @@ https://restcountries.com/
 Open the project folder in VS Code and run `index.html` using Live Server.
 
 ## Live Demo
-(Add GitHub Pages link here)
+https://itz-swetha.github.io/API_INTEGRATION_PROJECT/
